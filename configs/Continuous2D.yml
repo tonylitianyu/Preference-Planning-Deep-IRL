@@ -1,0 +1,14 @@
+env_name: Continuous2D-v0
+expert_controller:
+  controller_type: Human
+  traj_file: expert_trajs_Continuous2D-v0_2021-10-18_13-35-55
+  horizon: None
+width: 1.0
+start_state: [0.1, 0.25]
+goal_state: [0.9, 0.3]
+feature_gamma: 1.0
+num_traj: 1
+num_learner: 50
+expert_traj_len: 500
+reward_epi: 100
+test_model_name: good_combo/1/agent_reward_model_Continuous2D-v0_2021-10-18_16-37-18_58
