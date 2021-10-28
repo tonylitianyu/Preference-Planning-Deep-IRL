@@ -1,5 +1,6 @@
 # Preference-Planning-Deep-IRL
 
+<img src="envs/media/example.png" width="350">
 
 ## Introduction
 
