@@ -1,1 +1,1 @@
-# IRL_Continuous
+# Preference-Planning-Deep-IRL
