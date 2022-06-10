@@ -4,7 +4,7 @@
 
 ## Introduction
 
-[Check my portfolio post](http://imtianyuli.com/projects/2021/10/26/preference.html)
+[Check my portfolio post](http://imtianyuli.com/projects/2021/10/24/preference.html)
 
 ## Dependencies
 
